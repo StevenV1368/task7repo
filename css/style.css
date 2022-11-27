@@ -1,0 +1,27 @@
+.hero{
+    width:100vh;
+    background-color:blue;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-image:url(../imgs/jumbotron.jpg);
+}
+
+
+.test{
+    flex: auto;
+    text-align: center;
+    justify-content: center;
+}
+.min-vh-75 {
+    min-height:75vh !important;
+}
+
+.heading-1 {
+    font-size:52px;
+    font-weight:normal;
+}
+
+.w-65 {
+    width:100%;
+}
+
